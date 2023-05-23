@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [PACCAR](https://www.paccar.com/)
 - 🌱 I’m currently learning **React, Ansimble, AIops, C++, Java**
-- 👨‍💻 All of my projects are available at [jkubicki.github.io](jkubicki.github.io)
+- 👨‍💻 All of my projects are available at [jkubicki.github.io](https://github.com/jakobkubicki)
 - 💬 Ask me about **AI, Operations, Web Development**
 - 📫 How to reach me **jakobkub@gmail.com**
 
